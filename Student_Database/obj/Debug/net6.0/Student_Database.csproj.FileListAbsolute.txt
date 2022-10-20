@@ -1,0 +1,15 @@
+C:\Users\shanv\source\BootCamp Repo\Student_Database\Student_Database\bin\Debug\net6.0\Student_Database.exe
+C:\Users\shanv\source\BootCamp Repo\Student_Database\Student_Database\bin\Debug\net6.0\Student_Database.deps.json
+C:\Users\shanv\source\BootCamp Repo\Student_Database\Student_Database\bin\Debug\net6.0\Student_Database.runtimeconfig.json
+C:\Users\shanv\source\BootCamp Repo\Student_Database\Student_Database\bin\Debug\net6.0\Student_Database.dll
+C:\Users\shanv\source\BootCamp Repo\Student_Database\Student_Database\bin\Debug\net6.0\Student_Database.pdb
+C:\Users\shanv\source\BootCamp Repo\Student_Database\Student_Database\obj\Debug\net6.0\Student_Database.csproj.AssemblyReference.cache
+C:\Users\shanv\source\BootCamp Repo\Student_Database\Student_Database\obj\Debug\net6.0\Student_Database.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shanv\source\BootCamp Repo\Student_Database\Student_Database\obj\Debug\net6.0\Student_Database.AssemblyInfoInputs.cache
+C:\Users\shanv\source\BootCamp Repo\Student_Database\Student_Database\obj\Debug\net6.0\Student_Database.AssemblyInfo.cs
+C:\Users\shanv\source\BootCamp Repo\Student_Database\Student_Database\obj\Debug\net6.0\Student_Database.csproj.CoreCompileInputs.cache
+C:\Users\shanv\source\BootCamp Repo\Student_Database\Student_Database\obj\Debug\net6.0\Student_Database.dll
+C:\Users\shanv\source\BootCamp Repo\Student_Database\Student_Database\obj\Debug\net6.0\refint\Student_Database.dll
+C:\Users\shanv\source\BootCamp Repo\Student_Database\Student_Database\obj\Debug\net6.0\Student_Database.pdb
+C:\Users\shanv\source\BootCamp Repo\Student_Database\Student_Database\obj\Debug\net6.0\Student_Database.genruntimeconfig.cache
+C:\Users\shanv\source\BootCamp Repo\Student_Database\Student_Database\obj\Debug\net6.0\ref\Student_Database.dll
